@@ -1,0 +1,32 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: yellow;
+}
+
+#box1{
+	background-image: url('../images/spring.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 100vh;
+	width: 100vw;
+	background-attachment: fixed;
+}
+
+#box2{
+	background-image: url('../images/summer.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 100vh;
+	width: 100vw;
+	background-attachment: fixed;
+}
+
+#box3{
+	background-image: url('../images/fall.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 100vh;
+	width: 100vw;
+	background-attachment: fixed;
+}
